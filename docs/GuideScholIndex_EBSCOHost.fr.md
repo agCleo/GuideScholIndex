@@ -9,7 +9,7 @@ EBSCO est un fournisseur de bases de données scientifiques, d'outils de gestion
 | Nom | EBSCOHost |
 | Site web | https://www.ebsco.com/products/ebscohost-research-platform  |
 | Propriétaire | EBSCO Industries Inc. |
-| Type de propriétaire | Société privée |
+| Type de propriétaire | Entreprise privée |
 | Pays du propriétaire | USA |
 | Date de lancement | EBSCO Information Services a été fondée en 1984.<br>En 1987, l'entreprise est devenue EBSCO Publishing.<br>Depuis 2013, elle s'appelle EBSCO Information Services. |
 | Périmètre | Multidisciplinaire |
