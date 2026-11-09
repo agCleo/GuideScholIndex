@@ -10,7 +10,7 @@ Dimensions is a database of abstracts and citations and of research grants, whic
 | Website | https://app.dimensions.ai/discover/publication |
 | Owner | Digital Science & Research Solutions Ltd |
 | Owner type | Private company |
-| Owner country | UK |
+| Owner country | United Kingdom |
 | Launch year | 2018 |
 | Scope | Any |
 | Access for index users | Free for Dimensions (account needed)<br>Subscription fees for advanced functionalities (API access, etc.) |

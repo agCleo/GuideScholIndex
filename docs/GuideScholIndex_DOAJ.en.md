@@ -10,7 +10,7 @@ The DOAJ (Directory of Open Access Journals) is a community-curated list of peer
 | Website | https://doaj.org/ |
 | Owner | Infrastructure Services for Open Access |
 | Owner type | Non-profit organization |
-| Owner country | UK / Denmark |
+| Owner country | United Kingdom / Denmark |
 | Launch year | 2003 |
 | Scope | Any |
 | Access for index users | Free |

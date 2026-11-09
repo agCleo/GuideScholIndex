@@ -22,7 +22,7 @@ Datacite enables the creation and management of DOI persistent identifiers (PIDs
 ## SERVICE PROVISION
 | Element | Description |
 | :- | :- |
-| Service type | PIDs registration agency |
+| Service type | PIDs Registration agency |
 | Content type | Many: dataset, instrument, software, article, book chapter, etc. |
 | Content language | No limitation |
 | Content geographical provenance | No limitation |
