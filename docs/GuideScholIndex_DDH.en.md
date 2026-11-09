@@ -9,7 +9,7 @@ The Diamond Discovery Hub (DDH) is one of the services of the European Diamond C
 | Name | Diamond Discovery Hub (DDH) |
 | Website | https://ddh.edch.eu/en |
 | Owner | EDCH |
-| Owner type | Non-profit organisation |
+| Owner type | Non-profit organization |
 | Owner country | EU |
 | Launch year | 2025 |
 | Scope | Diamond Open Access journals |
