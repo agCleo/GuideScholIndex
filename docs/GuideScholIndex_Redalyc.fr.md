@@ -9,7 +9,7 @@ Service d'indexation de revues en accès ouvert diamant. Index de qualité et en
 | Nom | Redalyc Scientific Information System |
 | Site web | https://www.redalyc.org/ |
 | Propriétaire | Universidad Autónoma del Estado de México |
-| Type de propriétaire | organisme de recherche public |
+| Type de propriétaire | Organisme de recherche public |
 | Pays du propriétaire | Mexique |
 | Date de lancement | 2003 |
 | Périmètre | Multidisciplinaire |
