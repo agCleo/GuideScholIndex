@@ -9,7 +9,7 @@ Dimensions est une base de données contenant des résumés, des citations et de
 | Nom | Dimensions |
 | Site web | https://app.dimensions.ai/discover/publication  |
 | Propriétaire | Digital Science & Research Solutions Ltd |
-| Type de propriétaire | Société privée |
+| Type de propriétaire | Entreprise privée |
 | Pays du propriétaire | Royaume-Uni |
 | Date de lancement | 2018 |
 | Périmètre | Multidisciplinaire |
