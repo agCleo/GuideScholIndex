@@ -9,7 +9,7 @@ Index bibliographique en ligne affichant le texte intégral et les métadonnées
 | Nom | Google Scholar |
 | Site web | https://scholar.google.com/ |
 | Propriétaire | Google |
-| Type de propriétaire | Société privée |
+| Type de propriétaire | Entreprise privée |
 | Pays du propriétaire | USA |
 | Date de lancement | 2004 |
 | Périmètre | Multidisciplinaire |
