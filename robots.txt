@@ -4,5 +4,4 @@ Allow: /
 User-agent: *
 Disallow: /.github/workflows/
 
-# Indiquer l'emplacement de votre sitemap XML (optionnel)
 Sitemap: https://agcleo.github.io/GuideScholIndex/sitemap.xml
