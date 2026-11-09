@@ -9,7 +9,7 @@ Latindex is a regional online information system for academic journals in Latin 
 | Name | Latindex |
 | Website | https://latindex.org/latindex/ |
 | Owner | Network Latindex (coordination by National Autonomous University of Mexico UNAM; more than 20 institutions represented in the network) |
-| Owner type | Public non profit organization |
+| Owner type | Public non-profit organization |
 | Owner country | Mexico (coordination of the network) |
 | Launch year | 1997 |
 | Scope | Any fields published in Ibero-American region. |
