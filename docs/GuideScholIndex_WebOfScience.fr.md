@@ -9,7 +9,7 @@ Web of Science (WoS) est une plateforme payante qui donne accès à de multiples
 | Nom | Web of Science (WoS) |
 | Site web | https://www.webofscience.com/wos/woscc/basic-search  |
 | Propriétaire | Clarivate |
-| Type de propriétaire | Société privée |
+| Type de propriétaire | Entreprise privée |
 | Pays du propriétaire | États-Unis/Royaume-Uni |
 | Date de lancement | 1956 avec l'Institute for Scientific Information, 1997 avec Clarivate |
 | Périmètre | Sciences de la vie, sciences biomédicales, ingénierie, sciences sociales, arts et lettres. |
