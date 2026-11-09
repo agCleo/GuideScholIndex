@@ -9,7 +9,7 @@ ERIH PLUS est un index en ligne recensant les informations scientifiques des rev
 | Nom | ERIH PLUS |
 | Site web | https://kanalregister.hkdir.no/publiseringskanaler/erihplus/  |
 | Propriétaire | Ministère norvégien de l'Éducation et de la Recherche |
-| Type de propriétaire | organisme de recherche public |
+| Type de propriétaire | Organisme de recherche public |
 | Pays du propriétaire | Norvège |
 | Date de lancement | 2014 |
 | Périmètre | Sciences sociales et humaines |
