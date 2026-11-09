@@ -9,7 +9,7 @@ Crossref est une organisation regroupant 19 000 membres issus de l'édition comm
 | Nom | Crossref |
 | Site web | https://www.crossref.org  |
 | Propriétaire | Publishers International Linking Association, Inc. (PILA) |
-| Type de propriétaire | Organisation à but non lucratif |
+| Type de propriétaire | Organisation internationale à but non lucratif |
 | Pays du propriétaire | USA |
 | Date de lancement | 2000 |
 | Périmètre | Multidisciplinaire |
