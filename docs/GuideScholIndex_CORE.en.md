@@ -9,7 +9,7 @@ CORE (COnnecting REpositories) provides a comprehensive bibliographic database o
 | Name | CORE |
 | Website | https://core.ac.uk/ |
 | Owner | Knowledge Media Institute at the Open University |
-| Owner type | Non profit organization |
+| Owner type | Non-profit organization |
 | Owner country | United Kingdom |
 | Launch year | 2011 |
 | Scope | Any |

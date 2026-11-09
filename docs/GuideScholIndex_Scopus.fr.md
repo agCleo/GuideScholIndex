@@ -9,7 +9,7 @@ Base de données de résumés et de citations permettant de rechercher des artic
 | Nom | Scopus |
 | Site web | https://www.scopus.com/ |
 | Propriétaire | Elsevier |
-| Type de propriétaire | Société privée |
+| Type de propriétaire | Entreprise privée |
 | Pays du propriétaire | Pays-Bas |
 | Date de lancement | 2004 |
 | Périmètre | Sciences de la vie, sciences biomédicales, ingénierie, sciences sociales, arts et lettres. |
