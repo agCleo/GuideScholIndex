@@ -9,7 +9,7 @@ GoTriple is a multilingual discovery platform for the social sciences and humani
 | Name | GoTriple |
 | Website | https://www.gotriple.eu/ |
 | Owner | OPERAS RI |
-| Owner type | Non profit organization |
+| Owner type | Non-profit organization |
 | Owner country | Belgium |
 | Launch year | 2021 |
 | Scope | Social Sciences and Humanities |
