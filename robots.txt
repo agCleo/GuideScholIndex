@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+User-agent: *
+Disallow: /.github/workflows/
+
+# Indiquer l'emplacement de votre sitemap XML (optionnel)
+# Sitemap: https://github.io
