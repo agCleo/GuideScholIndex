@@ -9,7 +9,7 @@ Open catalog of scholarly works (journal articles, conference papers, books and 
 | Name | OpenAlex |
 | Website | https://openalex.org/ |
 | Owner | OurResearch |
-| Owner type | Non profit organization |
+| Owner type | Non-profit organization |
 | Owner country | Canada |
 | Launch year | 2022 |
 | Scope | Any |
