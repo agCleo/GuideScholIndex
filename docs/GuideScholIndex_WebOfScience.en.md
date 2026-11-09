@@ -10,7 +10,7 @@ The Web of Science (WoS) is a paid-access platform that provides access to multi
 | Website | https://www.webofscience.com/wos/woscc/basic-search |
 | Owner | Clarivate |
 | Owner type | Private company |
-| Owner country | USA/UK |
+| Owner country | USA / United Kingdom |
 | Launch year | 1956 with Institute for Scientific Information, 1997 with Clarivate |
 | Scope | Life sciences, biomedical sciences, engineering, social sciences, arts & humanities. |
 | Access for index users | Subscription fee |
