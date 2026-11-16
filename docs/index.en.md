@@ -1,7 +1,7 @@
 # Guide to Scholarly Indexes
 
 ## About 
-The Guide to Scholarly Indexes is a service of the [European Diamond Capacity Hub](https://edch.eu/) providing a catalog of documentation about services indexing scholarly publications. It is meant to help publishers selecting the appropriate index or aggregator for their publications, as well as understanding the requirements they will have to meet.
+The Guide to Scholarly Indexes is a service of the [European Diamond Capacity Hub](https://edch.eu/) providing a catalog of documentation about indexes or aggregators of scholarly publications. It is meant to help publishers selecting the appropriate index or aggregator for their publications, as well as understanding the requirements they will have to meet.
 
 The European Diamond Capacity Hub aims at supporting the publishers and publishing services following the [Diamond Open Access model](https://edch.eu/diamond-open-access). The Guide to Scholarly Indexes is one aspect of such support.   
 
