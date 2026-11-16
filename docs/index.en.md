@@ -29,7 +29,7 @@ For the purpose of this guide, the project team established the following typolo
 ## How to read the Guide?
 Each index documentation corresponds to one specific file or webpage.
 
-Each index documentation follows one unique template that can be found under the "Reference" tab in the menu of this website.
+Each index documentation follows one unique template that can be found under the [Reference](https://agcleo.github.io/GuideScholIndex/GuideScholIndex_template_v4/) tab.
 
 The template has the following structure:
 
@@ -47,11 +47,11 @@ The template has the following structure:
 
 - INFORMATION SOURCES
  
-The first two sections "Introduction" and "Service Description" give a concise view of the global aspects of the index. It concerns administration and typology aspects.
+The first two sections "Introduction" and "Service Description" give a concise view of the global aspects of the index. They concern administration and typology aspects.
 
-The second section "Service Provision" explains which and how journal's information is displayed on the index. It describes the data selection and management. It also indicates, when available, some additional services of the index besides the indexing.
+The third section "Service Provision" explains which elements of a journal's information are displayed in the index. The section describes the data selection and management. It also indicates, when available, some additional services of the index besides the indexing.
 
-The sections "Inclusion process", "Minimum Requirements" and "Additional Criteria" expose the requirements and selection criteria of the index. While some criteria will require a deeper look into the index own documentation, the Guide intends to give sufficient information to evaluate the feasibility for a given journal to meet the requirements.
+The sections "Inclusion process", "Minimum Requirements" and "Additional Criteria" expose the requirements and selection criteria of the index. While some criteria will require a deeper look into the index's own documentation, the Guide intends to give sufficient information to evaluate the feasibility for a given journal to meet the requirements.
 
 The last section "Information Sources" gives links to the main sources of information used to build the documentation.
 
@@ -65,7 +65,7 @@ The Guide to Scholarly Indexes also exists as a public spreadsheet:
 
 ## Additional information
 
-CRAFT-OA deliverable version 1 describing the designing of the Guide: [Zenodo file](https://doi.org/10.5281/zenodo.12634606).
+[More information about the Guide](https://doi.org/10.5281/zenodo.12634606) is available on Zenodo.
 
 ## License and Credits
 
