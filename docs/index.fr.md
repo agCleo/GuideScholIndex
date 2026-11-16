@@ -1,14 +1,14 @@
 # Guide des index académiques
 
 ## À propos 
-Le Guide des index académiques est un service du [European Diamond Capacity Hub](https://edch.eu/) qui fournit un catalogue de documentations à propos des services qui référencent des publications scientifiques. Il doit permettre aux éditeurs de sélectionner le service approprié pour le référencement de leurs publications, ainsi que de comprendre les critères qu'ils devront respecter pour y apparaître.
+Le Guide des index académiques est un service du [European Diamond Capacity Hub](https://edch.eu/) (EDCH). Il fournit un catalogue de bases de données qui référencent des publications scientifiques. Il permet aux éditeurs de sélectionner l'index ou l'agrégateur approprié pour le référencement de leurs publications, et également de comprendre les critères qu'ils devront respecter.
 
-Le European Diamond Capacity Hub vise à soutenir les éditeurs qui suivent le modèle de l'[Accès Ouvert Diamant](https://edch.eu/diamond-open-access). Le Guide des index académiques est l'un des aspects de ce soutien.
+Le European Diamond Capacity Hub soutient les éditeurs et les services de publication qui suivent le modèle de l'[Accès Ouvert Diamant](https://edch.eu/diamond-open-access). Le Guide des index académiques est l'un des aspects de ce soutien.
 
 ## Que contient le Guide ?
 Le Guide des index académiques contient des informations détaillées, bien que non exhaustives, au sujet des principaux services qui référencent des publications scientifiques.
 
-Le terme "index" a été choisi comme terme générique, mais peut concrètement renvoyer à une grande variété typologique : entrepôts, répertoires, agrégateurs, etc. Le Guide devrait précisément faciliter l'identification et la compréhension de ces différences. 
+Le terme "index" a été choisi comme terme générique, mais peut concrètement renvoyer à une grande variété typologique : entrepôts, répertoires, agrégateurs, etc. Le Guide facilite l'identification et la compréhension de ces différences. 
 
 Les index listés ici correspondent aussi bien aux index les plus utilisés par n'importe quel type d'éditeur, qu'aux index les plus utiles pour les éditeurs suivant le modèle de l'Accès Ouvert Diamant. Compte tenu de leur importance croissante dans de nombreux processus d'agrégation, les agences d'enregistrement d'identifiants pérennes (ex. DOI) ont également été listées, ne serait-ce qu'à titre d'information.
 
@@ -18,21 +18,21 @@ Pour les besoins de ce Guide, l'équipe-projet a établi la typologie suivante :
   
 - Agrégateur entièrement automatisé (ex. CORE, Google Scholar, OpenAlex, Semantic scholar)
   
-- Index bibliographique avec sélection (ex. DOAJ, Ebsco Host, ERIH PLUS, Pubmed)
+- Index bibliographique avec sélection (ex. DOAJ, EBSCO Host, ERIH PLUS, PubMed)
   
-- Index bibliographique et bibliométrique avec sélection (ex. Scopus, Web Of Science)
+- Index bibliographique et bibliométrique avec sélection (ex. Scopus, Web of Science)
   
 - Index bibliographique avec sélection et texte intégral (ex. CEEOL)
 
 - Agence d'enregistrement d'identifiants pérennes (ex. Crossref, Datacite)
 
 ## Comment lire le Guide ?
-Chaque documentation d'index correspond à un fichier ou page web spécifique.
-
-Chaque documentation suit un template unique qui est décrit à l'onglet "Reference" dans le menu de ce site.
+Chaque documentation d'index correspond à une page web spécifique qui suit un template unique décrit dans l'onglet [Reference](https://agcleo.github.io/GuideScholIndex/fr/GuideScholIndex_template_v4/).
 
 Le template suit cette structure :
 
+- INTRODUCTION
+  
 - DESCRIPTION DE L'INDEX
 
 - SERVICE FOURNI
@@ -47,7 +47,7 @@ Le template suit cette structure :
 
 Les deux premières sections "Introduction" et "Description de l'index" donnent un aperçu concis des aspects généraux de l'index. Il s'agit en particulier d'aspects administratifs et typologiques.
 
-La deuxième section "Service fourni" explique quelles informations concernant les publications sont affichées par l'index. La section décrit la sélection et la gestion des données. Elle indique aussi, quand ils existent, les services additionnels fourni par l'index en plus du référencement.
+La troisième section "Service fourni" explique quelles informations concernant les publications sont affichées par l'index. Cette section décrit la sélection et la gestion des données. Elle indique aussi, quand ils existent, les services additionnels fourni par l'index en plus du référencement.
 
 Les trois sections suivantes, "Processus d'inclusion", "Conditions minimales" et "Critères additionnels", présentent les critères de sélection et d'inclusion de l'index. Bien que certains critères réclament une lecture plus approfondie de la documentation propre de l'index, le Guide entend donner suffisamment d'informations pour évaluer la possibilité de répondre à ces critères.
 
@@ -63,7 +63,7 @@ Le Guide des index académiques existe également en format tableur publiquement
 
 ## Informations supplémentaires
 
-Livrable du projet CRAFT-OA décrivant la conception du Guide (v1) : [Zenodo file](https://doi.org/10.5281/zenodo.12634606).
+[Plus d'informations sur le Guide](https://doi.org/10.5281/zenodo.12634606) sont disponibles sur Zenodo.
 
 ## Licence et responsabilité
 
