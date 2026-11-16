@@ -61,15 +61,15 @@ nav: # Contains file names without the language extension processed by i18n plug
     - EZB: GuideScholIndex_EZB.md
     - Google Scholar: GuideScholIndex_Google_Scholar.md
     - GoTriple: GuideScholIndex_GoTriple.md
-    - Latindex: GuideScholIndex_ Latindex.md
+    - Latindex: GuideScholIndex_Latindex.md
     - OPENAIRE Graph: GuideScholIndex_OPENAIRE_Graph.md
     - OpenAlex: GuideScholIndex_OpenAlex.md
-    - Pubmed: GuideScholIndex_Pubmed.md
+    - Pubmed: GuideScholIndex_PubMed.md
     - ROAD: GuideScholIndex_ROAD.md
     - Redalyc: GuideScholIndex_Redalyc.md
     - Scopus: GuideScholIndex_Scopus.md
     - Semantic Scholar: GuideScholIndex_Semantic_Scholar.md
-    - WebOfScience: GuideScholIndex_WebOfscience.md
+    - WebOfScience: GuideScholIndex_WebOfScience.md
   - Reference:
     - Template: GuideScholIndex_template_v4.md
     
