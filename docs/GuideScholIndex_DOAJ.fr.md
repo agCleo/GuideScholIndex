@@ -1,6 +1,6 @@
 # DOAJ
 
-Le DOAJ (Directory of Open Access Journals) est un répertoire de revues en libre accès à comité de lecture. Il est géré par la communauté et maintenu par Infrastructure Services for Open Access (IS4OA). Le DOAJ permet également la collecte et l'affichage des métadonnées des articles, ainsi que la diffusion gratuite des métadonnées des articles et des revues.
+Le DOAJ (Directory of Open Access Journals) est un répertoire collaboratif de revues en libre accès à comité de lecture, gérée par DOAJ Fonden. Le DOAJ permet la diffusion gratuite des métadonnées des revues et des articles.
 
 
 ## DESCRIPTION DE L'INDEX
