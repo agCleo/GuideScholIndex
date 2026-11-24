@@ -5,7 +5,7 @@ The Guide to Scholarly Indexes is a service of the [European Diamond Capacity Hu
 
 The European Diamond Capacity Hub aims at supporting the publishers and publishing services following the [Diamond Open Access model](https://edch.eu/diamond-open-access). The Guide to Scholarly Indexes is one aspect of such support.   
 
-## What contains the Guide?
+## What the guide contains
 The Guide contains detailed, although not exhaustive, information about the main services indexing academic publications. 
 
 The term "index" was chosen as the broader term and can therefore correspond to a variety of service types: repositories, aggregators, thematic indexes, etc. The documentation should help to identify and understand these differences. 
@@ -26,7 +26,7 @@ For the purpose of this guide, the project team established the following typolo
 
 - PIDs Registration agency (e.g., Crossref, Datacite)
 
-## How to read the Guide?
+## How to read the Guide
 Each index documentation corresponds to one specific file or webpage.
 
 Each index documentation follows one unique template that can be found under the [Reference](https://agcleo.github.io/GuideScholIndex/GuideScholIndex_template_v4/) tab.
@@ -62,6 +62,12 @@ The Guide to Scholarly Indexes also exists as a public spreadsheet:
 - [English version](https://docs.google.com/spreadsheets/d/11fajdAKrVO7XrRreSLAbj1z4M09kODsNq2t4L22Ci5c/edit?usp=drive_link)
 
 - [French version](https://docs.google.com/spreadsheets/d/1XqSn5pyssrnMcPkUAyF1Tu2LShjanS5NS23wFEjZ-CE/edit?usp=drive_link)
+
+## Suggestions and bug reporting
+
+Suggestions and corrections are very much welcome.
+
+To do so, you can either use the email address enclosed in the button at the bottom right of this page, or use the bug reporting functionality in the GitHub repository at https://github.com/agCleo/GuideScholIndex/.
 
 ## Additional information
 
