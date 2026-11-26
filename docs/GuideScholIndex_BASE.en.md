@@ -1,6 +1,6 @@
 # BASE
 
-Indexes the metadata of all kinds of academically relevant resources - journals, institutional repositories, digital collections etc. - which provide an OAI interface and use OAI-PMH for providing their contents.
+Indexes the metadata of all kinds of academically relevant resources - journals, institutional repositories, digital collections etc. - which provide an OAI interface and use OAI-PMH for providing their contents.<br>TEST
 
 
 ## SERVICE DESCRIPTION
