@@ -1,0 +1,33 @@
+thead{
+  background-color: blanchedalmond;
+}
+
+.logos-container{
+  background-color: #4051b5;
+}
+
+.owner-block{
+  display: flex;
+}
+
+.edch-block img{
+  max-width: 140px;
+  padding: 1rem;
+}
+
+.oe-block{
+  margin-top: 2.6rem;
+}
+
+.oe-block img{
+  max-width: 140px;
+  padding: .2rem;
+  background-color: white;
+}
+
+.desc-block{
+  margin-left: 1rem;
+  font-size: .7rem;
+  margin-top: 2.4rem;
+}
+
